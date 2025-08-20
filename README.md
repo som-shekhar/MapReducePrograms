@@ -6,6 +6,8 @@ Step 2: Run the command mvn eclipse:clean && mvn eclipse:eclipse
 
 Step 3: mvn clean install
 
+Step 4: Open eclipse --> Import project --> Navigate to the project location 
+
 The above command will create a target folder inside the project and inside the jar will be present. You need to use this jar to run the MR job
 
 
